@@ -1,8 +1,5 @@
 const personas = [
-    new Persona('Juan','Perez'),
-    new Persona('Karla','Lara'),
-    new Persona('Maximiliano','Juarez'),
-
+    
 ];
 
 function mostrarPersonas(){
